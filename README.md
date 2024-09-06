@@ -1,7 +1,7 @@
-[]  Search
-[]  Map
-[]  LinkTree
-[]  Collections HeatMap
+- []  Search
+- []  Map
+  []  LinkTree
+-[]  Collections HeatMap
 []  Payments Terminal
 
 Inspiration 
